@@ -1,6 +1,6 @@
 -- MySQL dump 10.13  Distrib 8.0.37, for Win64 (x86_64)
 --
--- Host: localhost    Database: railway_reservation
+-- Host: localhost    Database: railway_system
 -- ------------------------------------------------------
 -- Server version	8.0.37
 
